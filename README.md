@@ -1,1 +1,1 @@
-# sistema-banc-rio-b-sico.
+# sistema-bancario-basico.
